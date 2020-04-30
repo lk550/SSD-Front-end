@@ -1,2 +1,2 @@
-# SSD---Front-end
+# SSD-Front-end
 Basic front end for the SSD project
